@@ -1,0 +1,33 @@
+# Large data files and generated outputs
+20-data/
+00-input/
+10-output/
+Master frequency lists/
+japanese-subtitles-word-kanji-frequency-lists-master/
+japanese-word-ranks-main/data/
+
+# System
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
